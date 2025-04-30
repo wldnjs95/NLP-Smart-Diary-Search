@@ -29,11 +29,13 @@ using **named entity recognition (NER)** and **sentence embeddings**.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
+```
 NLP-Smart-Diary-Search/
 ├── data/                  # Input diary entries & annotations
 ├── prompts/               # Prompt templates for few-shot T5
 ├── extract_keywords.py    # Keyword extraction logic
 ├── sentence_search.py     # Semantic similarity matching
 ├── README.md              # Project documentation
+```
